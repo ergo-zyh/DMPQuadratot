@@ -1,0 +1,1 @@
+These plots correspond to running the method rollout from dmp.py, which calculates a whole trayectory with the learned DMP, in order to compare it to the goal.
