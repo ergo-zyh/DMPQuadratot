@@ -1,2 +1,0 @@
-To power this particular robot a li-po battery was used. The midle cable of the connector is severed and the positive end of the battery is connected instead.
-Ground channel is shared with the USB2Dynamixel, and the Data cable corresponds only to the USB2Dynamixel.
